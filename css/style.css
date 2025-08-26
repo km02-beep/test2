@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: url("/images/BG2.jpg"), url("/images/BGrepeat.jpg");
+    background-image: url("images/BG2.jpg"), url("images/BGrepeat.jpg");
     background-repeat: no-repeat, repeat-x;
     background-attachment: fixed;
     background-position: top left, 1700px 0px;
